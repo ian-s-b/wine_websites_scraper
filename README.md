@@ -1,4 +1,4 @@
-# wine_websites_scraper
+# Wine Websites Scraper
 The objective of this projects is to scrap data from two different websites with different structures and to create dataframes containing information about the products of these sites.
 
 The main libraries used on this project are BeautifulSoup and Selenium.

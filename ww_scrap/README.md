@@ -1,4 +1,4 @@
-#Watson's wine scraper
+# Watson's wine scraper
 
 This folder contains the watson's wine scraper based on the BeautifulSoup library used on the https://www.watsonswine.com/ website.
 

@@ -1,5 +1,6 @@
-As it was described on the README_1.txt file this folder contains the BeautifulSoup project
-based on the https://www.watsonswine.com/ website.
+#Watson's wine scraper
+
+This folder contains the watson's wine scraper based on the BeautifulSoup library used on the https://www.watsonswine.com/ website.
 
 Down below you will find a quick description of each file :
 

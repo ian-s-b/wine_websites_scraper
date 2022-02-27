@@ -1,5 +1,5 @@
 # Instacart Scrap
-This folder contains the instacart scrap script based on the https://www.instacart.com/ website.
+This folder contains the instacart scrap script used on the https://www.instacart.com/ website and based on the Selenium tool.
 
 Down below you will find a quick description of each file :
 

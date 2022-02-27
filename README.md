@@ -9,7 +9,12 @@ Furthermore,when we have dynamic websites, when the HTML and XML structure of th
 
 The scraped websites are the following:
 
-- a
+- Watson's wine (https://www.watsonswine.com/):
+
+- Instacart (https://www.instacart.com/):
+
+
+
 The BeautifulSoup project can be found on the "scraping_with_bs4" folder and it was 
 based on the https://www.watsonswine.com/ website.
 

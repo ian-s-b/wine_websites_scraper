@@ -11,9 +11,9 @@ Down below you will find a quick description of each file :
 
 - **WWScrap_example.py:** 
 	This file contains some lines of code that shows how can the class described on the 
-	WatsonWineScrap.py file can be used. The "WW_champagne.csv" is an output of this script.
+	WatsonWineScrap.py file can be used. The "WW_champagne.csv" file is an output of this script.
 
 - **WW_data_analysis.ipynb:**
 	This file is a notebook that contains some data analysis of the output of the 
 	WWScrap_example.py file. With this data analysis, we can extract the 
-	WW_champagne_plus.csv file.
+	"WW_champagne_plus.csv" file.

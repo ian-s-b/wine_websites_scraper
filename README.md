@@ -9,8 +9,8 @@ Furthermore,when we have dynamic websites, when the HTML and XML structure of th
 
 The scraped websites are the following:
 
-- **Watson's wine (https://www.watsonswine.com/):** Watson's Wine is a wine retailer in Hong Kong and a member of the A.S. Watson Group (ASW), a wholly owned subsidiary of CK Hutchison Holdings Limited (CK Hutchison).
-<a href="https://example.com">Website</a></li>
+-  <a href="https://www.watsonswine.com/">Watson's wine:</a>Watson's Wine is a wine retailer in Hong Kong and a member of the A.S. Watson Group (ASW), a wholly owned subsidiary of CK Hutchison Holdings Limited (CK Hutchison).
+
 - Instacart (https://www.instacart.com/):
 
 
